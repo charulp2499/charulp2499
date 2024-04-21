@@ -8,7 +8,7 @@
 -Steve Jobs
 
 # 👽 About Me:
-As a master of AI student at PDEU, with a motive to learn, experience and to do implement research for further upskilling my abilities in the domain. I always looking for ways to deepen my understanding of AI and apply it in real-world contexts. With personal initiatives and faculty helps started working on some real good projects an research.
+I'm a passionate researcher immersed in the captivating realms of Computer Vision and Deep Learning. My journey extends into the dynamic intersections of Defense, Industrial, and Healthcare domains, where I channel my enthusiasm for innovation. Rooted in core research principles, I weave the intricate tapestry of technology, mathematics, and statistics to decode the language of visual data. From bolstering security in Defense to optimizing industrial processes and redefining healthcare diagnostics, my work is a testament to the transformative power of intelligent systems. Join me on this exhilarating expedition, where every line of code written and every algorithm devised shapes a future where technology harmonizes seamlessly with our world, creating possibilities beyond imagination.
 
 
 # 👨‍💻 I code with:

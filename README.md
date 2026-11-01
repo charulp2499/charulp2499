@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090C,45:111820,100:243316&height=230&section=header&text=CHARULKUMAR%20CHODVADIYA&fontSize=36&fontColor=C6F135&fontAlignY=37&desc=AI%20ENGINEER%20%20%7C%20%20AI%20RESEARCHER%20%20%7C%20%20AI%20SYSTEMS%20ARCHITECT&descSize=13&descColor=E6EDF3&descAlignY=57&animation=fadeIn" width="100%" alt="Charulkumar Chodvadiya | AI Engineer and Researcher" />
 
 **Building intelligent systems. Engineering real-world AI.**<br>
@@ -289,3 +289,4 @@ I enjoy connecting with engineers, researchers, founders, and teams working on m
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243316,50:111820,100:07090C&height=110&section=footer" width="100%" alt="Dark and lime footer" />
 </div>
+](https://github.com/Charulp2499)

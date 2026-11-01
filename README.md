@@ -348,19 +348,7 @@ Developed GPU-based processing approaches for high-frequency time-series workloa
 
 ## `08` / GITHUB ACTIVITY
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Charulp2499&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=C6F135&icon_color=C6F135&text_color=E6EDF3" width="49%" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charulp2499&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C6F135&text_color=E6EDF3" width="41%" alt="Most used languages" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=Charulp2499&hide_border=true&background=0D1117&ring=C6F135&fire=C6F135&currStreakLabel=C6F135&sideLabels=E6EDF3&dates=8B949E&currStreakNum=C6F135&sideNums=C6F135" width="75%" alt="GitHub contribution streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charulp2499&bg_color=0D1117&color=E6EDF3&line=C6F135&point=C6F135&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-
 </div>
 
 ---

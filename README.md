@@ -2,265 +2,321 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:172554,100:075985&height=210&section=header&text=Charulkumar%20Chodvadiya&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Engineer%20%7C%20AI%20Researcher%20%7C%20AI%20Systems%20Architect&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090C,45:111820,100:243316&height=230&section=header&text=CHARULKUMAR%20CHODVADIYA&fontSize=36&fontColor=C6F135&fontAlignY=37&desc=AI%20ENGINEER%20%20%7C%20%20AI%20RESEARCHER%20%20%7C%20%20AI%20SYSTEMS%20ARCHITECT&descSize=13&descColor=E6EDF3&descAlignY=57&animation=fadeIn" width="100%" alt="Charulkumar Chodvadiya | AI Engineer and Researcher" />
 
-### Engineering intelligent systems. Translating research into real-world impact.
+### Building intelligent systems. Engineering real-world AI.
 
-Building production-grade AI systems across machine learning, computer vision, multimodal intelligence, and generative AI. Bridging the gap between research innovation and scalable real-world applications.
+**Research-driven AI engineering · Multimodal intelligence · Scalable production systems**
 
 <br/>
 
-<a href="https://charulp2499.github.io/"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/charulp2499/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Charulp2499"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:charulpatel2499@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://charulp2499.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-C6F135?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/charulp2499/"><img src="https://img.shields.io/badge/LINKEDIN-C6F135?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
+<a href="https://github.com/Charulp2499"><img src="https://img.shields.io/badge/GITHUB-C6F135?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
+<a href="mailto:charulpatel2499@gmail.com"><img src="https://img.shields.io/badge/EMAIL-C6F135?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Research-5%2B%20Publications-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/Education-M.Tech%20AI%20%7C%20Gold%20Medalist-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/3%2B%20YEARS-ENGINEERING-161B22?style=flat-square&labelColor=C6F135&color=161B22" />
+<img src="https://img.shields.io/badge/5%2B-PUBLICATIONS-161B22?style=flat-square&labelColor=C6F135&color=161B22" />
+<img src="https://img.shields.io/badge/M.TECH%20AI-GOLD%20MEDALIST-161B22?style=flat-square&labelColor=C6F135&color=161B22" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01` / ABOUT ME
 
-I am an **AI Engineer and published AI researcher** with 3+ years of experience developing intelligent systems across healthcare AI, computer vision, enterprise automation, and generative AI.
+I am an **AI Engineer and published AI researcher** working at the intersection of machine learning research, computer vision, multimodal intelligence, and generative AI.
 
-My work combines research-driven problem solving with production engineering. I enjoy working across the complete AI lifecycle, from problem formulation and experimentation to model development, optimization, system architecture, and deployment.
+My work focuses on transforming research concepts into practical, production-grade intelligent systems. From training and fine-tuning foundation models to distributed learning, inference optimization, and deployment, I enjoy engineering across the complete AI lifecycle.
 
-- 🎓 **Education:** M.Tech in Artificial Intelligence, Gold Medalist.
-- 🔬 **Research:** Academic research collaborations with IIT Bombay and IIT Hyderabad.
-- 📚 **Publications:** 5+ peer-reviewed research publications across biomedical AI, computer vision, and applied machine learning.
-- 🏆 **Recognition:** Best Practical Paper Award at AIxIA 2023 for thermal imaging-based night-vision face detection.
-- 🏥 **Industry Focus:** Healthcare AI, clinical intelligence, speech AI, document automation, and enterprise AI.
-- 🌐 **Technical Focus:** Scalable, efficient, reliable, and deployment-ready intelligent systems.
+| | |
+|:---|:---|
+| **Education** | M.Tech in Artificial Intelligence · Gold Medalist |
+| **Research Collaborations** | IIT Bombay · IIT Hyderabad |
+| **Research Publications** | 5+ peer-reviewed publications |
+| **Recognition** | Best Practical Paper Award · AIxIA 2023 |
+| **Industry Domains** | Healthcare AI · Enterprise AI · Computer Vision |
+| **Engineering Focus** | Foundation Models · Agentic AI · Scalable AI Systems |
 
-> **Engineering philosophy:** A model is only one part of an AI solution. Data quality, evaluation, inference efficiency, reliability, integration, and measurable outcomes matter just as much.
+<br/>
+
+> **ENGINEERING PHILOSOPHY**
+>
+> Building a capable model is only the beginning. Reliable data pipelines, rigorous evaluation, efficient inference, system architecture, and real-world impact define a successful AI product.
 
 ---
 
-## 📊 Engineering Impact
-
-A snapshot of the scale, efficiency, and performance improvements achieved across production AI systems and engineering projects.
+## `02` / ENGINEERING IMPACT
 
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <h2>20K+</h2>
-      <strong>Clinical Records / Day</strong><br/>
-      <sub>LLM-powered clinical intelligence and workflow processing</sub>
-    </td>
-    <td align="center" width="33%">
-      <h2>8K+</h2>
-      <strong>Documents / Day</strong><br/>
-      <sub>Healthcare document intelligence and metadata extraction</sub>
-    </td>
-    <td align="center" width="33%">
-      <h2>96–99%</h2>
-      <strong>Extraction Accuracy</strong><br/>
-      <sub>Medical document intelligence across evaluated workflows</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h2>30–40%</h2>
-      <strong>Inference Cost Reduction</strong><br/>
-      <sub>Model and pipeline optimization</sub>
-    </td>
-    <td align="center" width="33%">
-      <h2>3×</h2>
-      <strong>Inference FPS Improvement</strong><br/>
-      <sub>Optimized edge computer vision pipeline</sub>
-    </td>
-    <td align="center" width="33%">
-      <h2>40×</h2>
-      <strong>Processing Throughput</strong><br/>
-      <sub>GPU-accelerated time-series processing project</sub>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/20K%2B-C6F135?style=for-the-badge&labelColor=161B22" /><br/>
+<strong>CLINICAL RECORDS / DAY</strong><br/>
+<sub>LLM-powered clinical intelligence and workflow processing</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/8K%2B-C6F135?style=for-the-badge&labelColor=161B22" /><br/>
+<strong>DOCUMENTS / DAY</strong><br/>
+<sub>Healthcare document intelligence and metadata extraction</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/96%E2%80%9399%25-C6F135?style=for-the-badge&labelColor=161B22" /><br/>
+<strong>EXTRACTION ACCURACY</strong><br/>
+<sub>Medical document intelligence across evaluated workflows</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/30%E2%80%9340%25-C6F135?style=for-the-badge&labelColor=161B22" /><br/>
+<strong>INFERENCE COST REDUCTION</strong><br/>
+<sub>Model and pipeline optimization</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/3%C3%97-C6F135?style=for-the-badge&labelColor=161B22" /><br/>
+<strong>INFERENCE FPS IMPROVEMENT</strong><br/>
+<sub>Optimized edge computer vision pipeline</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/40%C3%97-C6F135?style=for-the-badge&labelColor=161B22" /><br/>
+<strong>PROCESSING THROUGHPUT</strong><br/>
+<sub>GPU-accelerated time-series processing</sub>
+</td>
+</tr>
 </table>
 
 </div>
 
-<sub>Metrics represent results from different projects and evaluation settings, not a single system benchmark.</sub>
+<sub>Metrics represent results across separate production and engineering projects and evaluation settings. They are not measurements from a single system.</sub>
 
 ---
 
-## 🧠 Technical Expertise
+## `03` / TECHNICAL EXPERTISE
 
-My expertise spans the design, development, optimization, and deployment of AI systems. The following areas represent my primary engineering and research capabilities.
+<div align="center">
+
+<img src="https://img.shields.io/badge/RESEARCH%20%2B%20ENGINEERING-C6F135?style=flat-square&labelColor=161B22" />
+<img src="https://img.shields.io/badge/DEVELOPMENT%20%2B%20OPTIMIZATION-C6F135?style=flat-square&labelColor=161B22" />
+<img src="https://img.shields.io/badge/PRODUCTION%20%2B%20DEPLOYMENT-C6F135?style=flat-square&labelColor=161B22" />
+
+</div>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### 🤖 Generative & Agentic AI
+### ◈ Generative & Agentic AI
 
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/VLMs-6B46C1?style=flat-square&logo=huggingface&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/Agents-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/RLHF%20%2F%20RLAIF-9333EA?style=flat-square" />
-<img src="https://img.shields.io/badge/PEFT-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs-C6F135?style=flat-square&logo=openai&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/VLMs-C6F135?style=flat-square&logo=huggingface&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/RAG-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/AGENTIC%20AI-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/TRANSFORMERS-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/LORA%20%2F%20QLORA-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/RLHF%20%2F%20RLAIF-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/PEFT-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/LANGCHAIN-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/LANGGRAPH-C6F135?style=flat-square" />
 
-<sub>LLM/VLM fine-tuning, parameter-efficient learning, RAG, multi-agent orchestration, tool calling, prompt engineering, model evaluation, and structured generation.</sub>
+<sub>LLM/VLM fine-tuning, parameter-efficient learning, prompt engineering, retrieval-augmented generation, multi-agent orchestration, tool calling, model evaluation, and structured generation.</sub>
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-### 👁️ Computer Vision & Biomedical AI
+### ◈ Computer Vision & Biomedical AI
 
-<img src="https://img.shields.io/badge/Medical%20Imaging-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/Segmentation-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Object%20Detection-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Multispectral%20AI-475569?style=flat-square" />
-<img src="https://img.shields.io/badge/Federated%20Learning-9333EA?style=flat-square" />
-<img src="https://img.shields.io/badge/Contrastive%20Learning-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/MEDICAL%20IMAGING-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/SEGMENTATION-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/OBJECT%20DETECTION-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/MULTISPECTRAL%20AI-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/FEDERATED%20LEARNING-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/CONTRASTIVE%20LEARNING-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/U--NET-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/YOLO-C6F135?style=flat-square" />
 
 <sub>CT/MRI analysis, image segmentation, object detection, thermal imaging, multispectral vision, representation learning, and privacy-preserving medical AI.</sub>
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### ⚙️ Deep Learning & Model Optimization
+### ◈ Deep Learning & Model Optimization
 
-<img src="https://img.shields.io/badge/PyTorch-DD4B25?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/DDP%20%2F%20FSDP-334155?style=flat-square" />
-<img src="https://img.shields.io/badge/Quantization-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/Distillation-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Pruning-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTORCH-C6F135?style=flat-square&logo=pytorch&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/TENSORFLOW-C6F135?style=flat-square&logo=tensorflow&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/DDP%20%2F%20FSDP-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/QUANTIZATION-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/DISTILLATION-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/PRUNING-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/CUDA-C6F135?style=flat-square&logo=nvidia&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/TENSORRT-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/ONNX-C6F135?style=flat-square" />
 
 <sub>Distributed multi-GPU training, efficient fine-tuning, quantization, pruning, knowledge distillation, hardware-aware optimization, and edge inference.</sub>
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-### 🎙️ Speech & Document Intelligence
+### ◈ Speech & Document Intelligence
 
-<img src="https://img.shields.io/badge/Speech%20AI-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/ASR%20%2F%20STT-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/TTS-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/Document%20AI-334155?style=flat-square" />
-<img src="https://img.shields.io/badge/Information%20Extraction-9333EA?style=flat-square" />
-<img src="https://img.shields.io/badge/Multimodal%20AI-1D4ED8?style=flat-square" />
+<img src="https://img.shields.io/badge/SPEECH%20AI-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/ASR%20%2F%20STT-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/TTS-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/DOCUMENT%20AI-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/INFORMATION%20EXTRACTION-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/MULTIMODAL%20AI-C6F135?style=flat-square" />
 
 <sub>Domain-specific speech recognition, streaming STT/TTS, medical dictation, document understanding, structured extraction, and multimodal processing.</sub>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-### 🏗️ AI Systems & Production Engineering
+### ◈ AI Systems & Production Engineering
 
-<img src="https://img.shields.io/badge/AI%20System%20Architecture-0B1220?style=flat-square" />
-<img src="https://img.shields.io/badge/Scalable%20Inference-1D4ED8?style=flat-square" />
-<img src="https://img.shields.io/badge/Distributed%20Computing-334155?style=flat-square" />
-<img src="https://img.shields.io/badge/Model%20Serving-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/Edge%20AI-76B900?style=flat-square" />
-<img src="https://img.shields.io/badge/MLOps-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Cloud%20Deployment-2563EB?style=flat-square" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/SYSTEM%20ARCHITECTURE-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/SCALABLE%20INFERENCE-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/DISTRIBUTED%20COMPUTING-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/MODEL%20SERVING-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/EDGE%20AI-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/MLOPS-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/CLOUD%20DEPLOYMENT-C6F135?style=flat-square" />
+
+</div>
 
 <sub>End-to-end AI pipelines, asynchronous processing, API development, cloud and edge deployment, production inference, system integration, and performance monitoring.</sub>
 
 ---
 
-## 🛠️ Technology Stack
-
-### Languages & Core Libraries
+## `04` / TECHNOLOGY STACK
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,r,postgres,mongodb,git,linux&perline=7" alt="Programming languages and tools" />
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,cpp,r&theme=dark" alt="Python, C++, R" />
+
+### AI / ML FRAMEWORKS
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="AI and ML frameworks" />
+
+### BACKEND / CLOUD / INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,aws,azure,git,linux&theme=dark" alt="Backend, cloud, and infrastructure" />
+
 </div>
 
-### Machine Learning & AI Frameworks
+### ADDITIONAL TOOLS & PLATFORMS
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perline=7" alt="Machine learning frameworks" />
+
+<img src="https://img.shields.io/badge/HUGGING%20FACE-C6F135?style=flat-square&logo=huggingface&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/DETECTRON2-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/MMDETECTION-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/LANGCHAIN-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/LANGGRAPH-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/MLFLOW-C6F135?style=flat-square&logo=mlflow&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/WEIGHTS%20%26%20BIASES-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/PINECONE-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/WEAVIATE-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/VLLM-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/TENSORRT-C6F135?style=flat-square" />
+<img src="https://img.shields.io/badge/ONNX-C6F135?style=flat-square" />
+
 </div>
-
-### Backend, Cloud & Infrastructure
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,aws,azure,github,gitlab&perline=7" alt="Backend, cloud, and infrastructure tools" />
-</div>
-
-### Additional Tools & Platforms
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Detectron2-EE4C2C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MMDetection-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-1D4ED8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pinecone-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Weaviate-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/vLLM-334155?style=for-the-badge" />
-</p>
 
 ---
 
-## 🚀 Selected Projects & Engineering Work
+## `05` / SELECTED PROJECTS
 
-### 01 · Agentic AI & Enterprise Automation
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01. Agentic AI & Enterprise Automation
 
 Designed multi-agent systems and AI-powered workflows connecting language models with business processes, structured data, and backend services.
 
-**Core technologies:** LLMs · Agent Orchestration · Tool Calling · RAG · FastAPI · Workflow Automation
+**FOCUS**
 
-### 02 · Healthcare Document Intelligence
+`LLMs` `Agent Orchestration` `Tool Calling` `RAG` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+### 02. Healthcare Document Intelligence
 
 Developed document understanding pipelines using fine-tuned VLMs and LLMs for medical document interpretation, metadata extraction, and structured information processing.
 
-**Core technologies:** VLM Fine-tuning · Document AI · Multimodal Models · Structured Extraction · Async Inference
+**FOCUS**
 
-### 03 · Medical Image Segmentation
+`VLM Fine-tuning` `Document AI` `Multimodal` `Async Inference`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03. Medical Image Segmentation
 
 Explored deep learning approaches for brain tumor segmentation, including uncertainty-aware architectures, federated learning, and novel segmentation objectives.
 
-**Core technologies:** U-Net · Federated Learning · Contrastive Learning · Medical Imaging · PyTorch
+**FOCUS**
 
-### 04 · Edge-Optimized Video Analytics
+`U-Net` `Federated Learning` `Contrastive Learning` `PyTorch`
+
+</td>
+<td width="50%" valign="top">
+
+### 04. Edge-Optimized Video Analytics
 
 Built optimized computer vision inference pipelines using TensorRT and model-level optimization techniques, achieving up to 3× FPS improvement with 95% mAP in the evaluated project.
 
-**Core technologies:** Object Detection · TensorRT · ONNX · CUDA · Edge AI
+**FOCUS**
 
-### 05 · Real-Time 3D Vision
+`Object Detection` `TensorRT` `ONNX` `CUDA` `Edge AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05. Real-Time 3D Vision
 
 Worked on depth estimation and point-cloud processing pipelines for extracting spatial representations from visual data.
 
-**Core technologies:** Computer Vision · Depth Estimation · 3D Point Clouds · Spatial Intelligence
+**FOCUS**
 
-### 06 · GPU-Accelerated Time-Series Processing
+`Computer Vision` `Depth Estimation` `3D Point Clouds` `Spatial Intelligence`
+
+</td>
+<td width="50%" valign="top">
+
+### 06. GPU-Accelerated Time-Series Processing
 
 Developed GPU-based processing approaches for high-frequency time-series workloads, achieving up to 40× throughput improvement in the evaluated project.
 
-**Core technologies:** GPU Computing · CUDA · Time-Series Analysis · Parallel Processing
+**FOCUS**
+
+`GPU Computing` `CUDA` `Time-Series Analysis` `Parallel Processing`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔬 Research Interests
+## `06` / RESEARCH INTERESTS
 
-My research interests focus on developing intelligent models that are accurate, efficient, interpretable, and deployable.
-
-| Research Area | Topics of Interest |
-|---|---|
+| RESEARCH DOMAIN | AREAS OF INTEREST |
+|:---|:---|
 | **Biomedical AI** | Medical image analysis, clinical AI, segmentation, multimodal healthcare systems |
 | **Computer Vision** | Object detection, representation learning, multispectral and thermal imaging |
 | **Foundation Models** | LLMs, VLMs, multimodal learning, domain adaptation, efficient fine-tuning |
@@ -270,68 +326,69 @@ My research interests focus on developing intelligent models that are accurate, 
 
 ---
 
-## 📚 Selected Publications
-
-Peer-reviewed research contributions across biomedical AI, computer vision, and applied machine learning.
-
-| Year | Research Contribution | Venue / Recognition |
-|---|---|---|
-| 2024 | FESS Loss for Medical Image Segmentation · First Author | IEEE ISBI 2024 |
-| 2024 | Metaverse Research Survey | IEEE INOCON 2024 |
-| 2023 | Night-Vision Face Detection Using Thermal Imaging | AIxIA 2023 · **Best Practical Paper Award** |
-| 2023 | Palmprint Recognition | NCVPRIPG 2023 |
-| 2023 | Solar Power System Maintenance | IEEE GlobConET 2023 |
-
----
-
-## 📈 GitHub Analytics
+## `07` / SELECTED PUBLICATIONS
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Charulp2499&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=transparent" width="100%" alt="GitHub statistics" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charulp2499&layout=compact&langs_count=8&hide_border=true&theme=transparent" width="100%" alt="Most used programming languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=Charulp2499&hide_border=true&theme=transparent" width="100%" alt="GitHub contribution streak" />
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/RESEARCH-C6F135?style=flat-square&labelColor=161B22" />
+<img src="https://img.shields.io/badge/PEER%20REVIEWED-C6F135?style=flat-square&labelColor=161B22" />
+<img src="https://img.shields.io/badge/IEEE%20CONFERENCES-C6F135?style=flat-square&labelColor=161B22" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charulp2499&bg_color=00000000&color=64748b&line=2563eb&point=0ea5e9&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+</div>
+
+| YEAR | RESEARCH CONTRIBUTION | VENUE / RECOGNITION |
+|:---:|:---|:---|
+| **2024** | FESS Loss for Medical Image Segmentation · First Author | IEEE ISBI 2024 |
+| **2024** | Metaverse Research Survey | IEEE INOCON 2024 |
+| **2023** | Night-Vision Face Detection Using Thermal Imaging | AIxIA 2023 · 🏆 Best Practical Paper |
+| **2023** | Palmprint Recognition | NCVPRIPG 2023 |
+| **2023** | Solar Power System Maintenance | IEEE GlobConET 2023 |
+
+---
+
+## `08` / GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Charulp2499&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=C6F135&icon_color=C6F135&text_color=E6EDF3" width="49%" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charulp2499&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C6F135&text_color=E6EDF3" width="41%" alt="Most used languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Charulp2499&hide_border=true&background=0D1117&ring=C6F135&fire=C6F135&currStreakLabel=C6F135&sideLabels=E6EDF3&dates=8B949E&currStreakNum=C6F135&sideNums=C6F135" width="75%" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charulp2499&bg_color=0D1117&color=E6EDF3&line=C6F135&point=C6F135&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## `09` / LET'S CONNECT
 
-I am interested in connecting with engineers, researchers, founders, and teams working on meaningful AI problems.
+I enjoy connecting with engineers, researchers, founders, and teams working on meaningful AI problems.
 
-**Areas of interest:**
+**Interested in collaborating on:**
 
-- Applied AI and Machine Learning Engineering
-- AI Research and Research Engineering
-- Computer Vision and Multimodal AI
-- Generative AI, LLMs, VLMs, and Agentic Systems
-- Production AI Architecture and Scalable AI Infrastructure
+`Applied AI` · `AI Research` · `Computer Vision` · `Multimodal AI` · `Generative AI` · `Agentic Systems` · `AI Architecture`
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/charulp2499/"><img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://charulp2499.github.io/"><img src="https://img.shields.io/badge/Explore%20My%20Portfolio-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:charulpatel2499@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br/>
+
+<a href="https://www.linkedin.com/in/charulp2499/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-C6F135?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
+<a href="https://charulp2499.github.io/"><img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-C6F135?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /></a>
+<a href="mailto:charulpatel2499@gmail.com"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH-C6F135?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
 
 <br/><br/>
 
-**From research to engineering. From models to intelligent systems.**
+### RESEARCH → ENGINEERING → INTELLIGENT SYSTEMS
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:075985,50:172554,100:0B1220&height=100&section=footer" width="100%" alt="Footer banner" />
+<sub>Building beyond models. Engineering for impact.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243316,50:111820,100:07090C&height=110&section=footer" width="100%" alt="Dark and lime footer" />
 
 </div>
